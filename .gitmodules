@@ -1,0 +1,9 @@
+[submodule "monica"]
+	path = monica
+	url = https://github.com/zalf-rpm/monica.git
+[submodule "sys-libs"]
+	path = sys-libs
+	url = https://github.com/zalf-rpm/sys-libs.git
+[submodule "util"]
+	path = util
+	url = https://github.com/zalf-rpm/util.git
