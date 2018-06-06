@@ -7,3 +7,6 @@
 [submodule "util"]
 	path = util
 	url = https://github.com/zalf-rpm/util.git
+[submodule "monica-parameters"]
+	path = monica-parameters
+	url = https://github.com/zalf-rpm/monica-parameters.git
